@@ -7,7 +7,7 @@ STARTING_HAND_SIZE = 6
 PACK_PRICE = 100
 CHALLENGE_TIMEOUT = 30 #How long to wait for someone to accept a challenge
 TURN_TIMEOUT = 300 #How long to wait for someone to do an action on their turn before they forfeit the match
-TOKEN = 'OTk0Mzg2NzU0NjQ1Nzk0OTA2.GbtxtS.6KYHFoeG83OjU3au0Spe4nqqhg5wgQonLh5yfI' 
+TOKEN = '' #secret
 
 DEFINITIONS = {
 	"trade offer": "An offer to exchange different cards/characters for another card/character.",
